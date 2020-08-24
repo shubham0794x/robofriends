@@ -2,7 +2,7 @@
 
 ### Live URL :-
 
-https://robo--friends.herokuapp.com/
+> [Robo Friends App](https://robo--friends.herokuapp.com/)
 
  ## To run the Application:
 
